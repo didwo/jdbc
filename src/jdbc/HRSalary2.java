@@ -19,7 +19,7 @@ public class HRSalary2 {
 			sc.close();
 		
 		
-				System.out.println("양재환");
+				
 		
 			System.out.println(minsalary+":"+maxsalary);
 			
